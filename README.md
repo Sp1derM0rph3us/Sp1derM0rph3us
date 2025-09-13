@@ -11,7 +11,9 @@ Hello, world! my name is *João Victor*, also known as **SpiderMorpheus**. I'm a
   <a href="https://github.com/Sp1derM0rph3us" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/SpiderMorpheus" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
-
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/sp1d3rm0rph3us.png" alt="Your Image Badge" />
+</div>
 ---
 
 ## TECHNOLOGIES THAT I USE/WORK WITH! 💻
