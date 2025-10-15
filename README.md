@@ -4,7 +4,7 @@
   <a><img src="https://i.imgur.com/vJWitbb.gif"></a>
 </div>
 
-My name is *João Victor*, also known as **SpiderMorpheus**. I'm a 21-years-old Brazilian cybersecurity student at FIAP, Penetration Tester and Red Team Operator. I'm currently undergoing Pentest Experience @desecsecurity. I am very interested in all things Cybersecurity, but my current main focus is Active Directory exploitation, social engineering and exploit research. Here, you can find some scripts and tools I've made. In my spare time, I'm also a music producer, beatmaker, guitarist and vocalist deeply in love with pop culture and Mike Pondsmith's Cyberpunk world.
+I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, Red Team Operator, exploit researcher and developer and a cyberpunk. I'm currently undergoing **Certified Web Exploitation Specialist** @ Hack The Box. My main focus is Active Directory exploitation, social engineering and reverse engineering. Here, you can find scripts and tools I've made. I'm also a music producer, beatmaker, guitarist and vocalist deeply in love with pop culture and Mike Pondsmith's Cyberpunk world.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaion/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
