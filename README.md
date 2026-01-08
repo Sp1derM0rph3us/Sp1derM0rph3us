@@ -22,7 +22,6 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, exploit resea
 ![bash-badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![powershell-badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![debian-badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![mint-badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![windows-badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![aws-badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![vmware-badge](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
@@ -30,9 +29,7 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, exploit resea
 ![tor-badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 ---
-## My GitHub Stats! 📈
 
-![profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sp1derM0rph3us&theme=transparent)
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1derM0rph3us&theme=transparent&show_icons=true)
 
 ---
