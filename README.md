@@ -4,7 +4,7 @@
   <a><img src="https://i.imgur.com/vJWitbb.gif"></a>
 </div>
 
-I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, Red Team Operator, exploit researcher and developer and a cyberpunk. I'm currently undergoing **Certified Web Exploitation Specialist** @ Hack The Box. My main focus is Active Directory exploitation, social engineering and reverse engineering. Here, you can find scripts and tools I've made. I'm also a music producer, beatmaker, guitarist and vocalist deeply in love with pop culture and Mike Pondsmith's Cyberpunk world.
+I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, Red Team Operator, exploit researcher and developer and a cyberpunk. Everything that can be hacked peaks my interest, but I focus in Active Directory, exploit development and social engineering. Here, you can find scripts and tools I've made. I'm also a music producer, beatmaker and guitarist deeply in love with pop culture and Mike Pondsmith's Cyberpunk.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jaion/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -15,7 +15,7 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, Red Team Oper
   <img src="https://tryhackme-badges.s3.amazonaws.com/sp1d3rm0rph3us.png" alt="Your Image Badge" />
 </div>
 
-## TECHNOLOGIES THAT I WORK WITH 💻
+## STUFF I KNOW
 
 ![python-badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![shell-scripting-badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
