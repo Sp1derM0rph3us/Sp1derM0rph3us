@@ -31,9 +31,3 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, exploit resea
 ![vmware-badge](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![virtualbox-badge](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![tor-badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-
----
-
-![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1derM0rph3us&theme=transparent&show_icons=true)
-
----
