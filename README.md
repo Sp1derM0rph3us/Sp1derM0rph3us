@@ -1,4 +1,4 @@
-## ABOUT ME 👨🏽‍💻
+## ABOUT ME
 
 <div align="center">
   <a><img src="https://i.imgur.com/vJWitbb.gif"></a>
@@ -14,6 +14,10 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, exploit resea
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/sp1d3rm0rph3us.png" alt="Your Image Badge" />
 </div>
+
+## CERTS & LOOT
+
+<img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/HTB_CWES-certificate.jpg" alt="HTB CWES certificate" width="500" height="500">
 
 ## STUFF I KNOW
 
