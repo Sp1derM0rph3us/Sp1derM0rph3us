@@ -19,6 +19,7 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Penetration Tester, exploit resea
 
 <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/HTB_CWES-certificate.jpg" alt="HTB CWES certificate" width="500" height="500">
 <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/crtsv2-cert2.jpg" alt="HTB CWES certificate" width="500" height="500">
+<img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/MCRTA_cert.png" alt="HTB CWES certificate" width="500" height="500">
 
 ## STUFF I KNOW
 
