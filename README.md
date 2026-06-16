@@ -17,19 +17,13 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Red Team operator, exploit & malw
 
 ## CERTS & LOOT
 
-<img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/HTB_CWES-certificate.jpg" alt="HTB CWES certificate" width="500" height="500">
-<img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/crtsv2-cert2.jpg" alt="HTB CWES certificate" width="500" height="500">
-<img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/MCRTA_cert.png" alt="HTB CWES certificate" width="500" height="500">
+<div align="center">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/HTB_CWES-certificate.jpg" alt="HTB CWES certificate" width="400">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/crtsv2-cert2.jpg" alt="CRTSv2 certificate" width="400">
+</div>
 
-## STUFF I KNOW
+<br>
 
-![python-badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![shell-scripting-badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![bash-badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![powershell-badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![debian-badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![windows-badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![aws-badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![vmware-badge](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-![virtualbox-badge](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![tor-badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+<div align="center">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/MCRTA_cert.png" alt="MCRTA certificate" width="400">
+</div>
