@@ -27,5 +27,3 @@ I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Red Team operator, exploit & malw
 <div align="center">
   <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/MCRTA_cert.png" alt="MCRTA certificate" width="400">
 </div>
-
-[![Hack The Box](https://www.hackthebox.com/badge/image/1258193)](https://app.hackthebox.com/profile/1258193)
