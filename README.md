@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/LinkedIn Header.png" alt="banner" width="1080">
+</div>
+
 ## ABOUT ME
 
 I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Red Team operator, exploit & malware developer, researcher, writer and a cyberpunk. Everything that can be hacked peaks my interest, but I focus in Active Directory, binary exploitation, malware development and social engineering. I've had the amazing opportunity to talk at **Security BSidesSP 2026**, where I spoke about one of my researches: **S3 Bucket Poisoning**. You can read the original article [here](https://spiderm.medium.com/buckets-of-poison-using-s3-buckets-to-exploit-humans-271fda69bf0f).
