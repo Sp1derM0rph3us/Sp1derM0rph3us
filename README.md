@@ -6,7 +6,7 @@
 
 I'm **SpiderMorpheus**, a.k.a SpiderM/Sp1d3rM. Red Team operator, exploit & malware developer, researcher, writer and a cyberpunk. Everything that can be hacked peaks my interest, but I focus in Active Directory, binary exploitation, malware development and social engineering. I've had the amazing opportunity to talk at **Security BSidesSP 2026**, where I spoke about one of my researches: **S3 Bucket Poisoning**. You can read the original article [here](https://spiderm.medium.com/buckets-of-poison-using-s3-buckets-to-exploit-humans-271fda69bf0f).
 
-I also integrate an independent computer science and security research group called Anteiku (or Anteikuops). You can read one of our articles [@ anteiku](https://anteiku-energy.github.io/)
+I also integrate an independent computer science and security research group called ANTEIKU. You can read one of our articles [@ ANTEIKU](https://anteiku-energy.github.io/)
 
 Here, you can find scripts and tools I've made. I'm also a music producer, beatmaker and guitarist deeply in love with pop culture and Mike Pondsmith's Cyberpunk.
 
