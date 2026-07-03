@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/LinkedIn Header.png" alt="banner" width="1080">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/anteiku_header.png" alt="banner" width="1500">
 </div>
 
 ## ABOUT ME
