@@ -14,6 +14,7 @@ Here, you can find scripts and tools I've made. I'm also a music producer, beatm
   <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/htb_cwes-badge.png" alt="Certified Web Exploitation Specialist badge" width="150">
   <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/cwl_crtsv2-badge.png" alt="Certified Red Team Specialist v.2 badge" width="150">
   <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/zpts_crto-badge.png" alt="Certified Red Team Operator badge" width="150">
+  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/crtl_badge.png" alt="Certified Red Team Lead badge" width="150">
 </div>
 <br>
 <div align="center">
@@ -25,6 +26,3 @@ Here, you can find scripts and tools I've made. I'm also a music producer, beatm
   <a href="https://twitter.com/SpiderMorpheus" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<div align="center">
-  <img src="https://github.com/Sp1derM0rph3us/Sp1derM0rph3us/blob/main/cwl_mcrta-cert.png" alt="Multi-Cloud Red Team Analyst certificate" width="400">
-</div>
